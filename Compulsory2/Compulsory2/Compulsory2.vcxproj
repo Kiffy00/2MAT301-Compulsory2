@@ -130,6 +130,7 @@
   <ItemGroup>
     <ClCompile Include="Compulsory2.cpp" />
     <ClCompile Include="Dependencies\includes\glm\detail\glm.cpp" />
+    <ClCompile Include="glad.c" />
     <ClCompile Include="ShaderHelper.cpp" />
     <ClCompile Include="Vertex.cpp" />
   </ItemGroup>
